@@ -35,7 +35,8 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rules that devices follow to communicate with each other.
+A simple example is how people follow rules when having a conversation so both sides understand each other.
 
 ---
 
