@@ -59,9 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 💡 **Tip:** You may use ChatGPT (as demonstrated in Task 1) to refine your explanation.
 
-## Answer
-
-Add your answer here...
+## Although the EpicReads website is hosted on a server in Finland, users worldwide can access it through the internet. When a user enters the website address, the IP address identifies the EpicReads server where the website is hosted. Data is transferred using packet switching, which breaks information into small packets that can travel across different networks and routes before reaching the destination. The TCP/IP protocol suite manages how these packets are addressed, delivered, and reassembled correctly. Once the connection reaches the server, HTTP or HTTPS allows the user's browser and the website to communicate. HTTPS is preferred because it encrypts the data exchanged between the user and EpicReads, helping protect passwords, payment details, and other sensitive information. Thus, users can access EpicReads from almost anywhere, regardless of the server's location.
 
 ---
 
